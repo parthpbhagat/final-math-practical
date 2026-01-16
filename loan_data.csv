@@ -1,0 +1,51 @@
+Application_ID,Applicant_Name,Age,Gender,Income,Loan_Amount,Credit_Score,Employment_Status,Loan_Term_Months,Loan_Purpose,Approval_Status
+LA001,John Smith,35,Male,55000,15000,720,Employed,36,Home Improvement,Approved
+LA002,Sarah Johnson,28,Female,42000,8000,680,Employed,24,Debt Consolidation,Approved
+LA003,Michael Brown,45,Male,78000,25000,750,Self-Employed,48,Business,Approved
+LA004,Emily Davis,32,Female,38000,12000,590,Employed,36,Education,Rejected
+LA005,David Wilson,52,Male,95000,50000,800,Employed,60,Home Purchase,Approved
+LA006,Jessica Martinez,26,Female,35000,5000,650,Employed,12,Medical,Approved
+LA007,Robert Taylor,41,Male,62000,20000,710,Self-Employed,36,Home Improvement,Approved
+LA008,Amanda Anderson,29,Female,48000,10000,620,Employed,24,Vacation,Rejected
+LA009,Christopher Thomas,38,Male,72000,30000,740,Employed,48,Business,Approved
+LA010,Ashley Jackson,31,Female,44000,7500,670,Employed,18,Debt Consolidation,Approved
+LA011,James White,55,Male,120000,75000,820,Employed,72,Home Purchase,Approved
+LA012,Melissa Harris,24,Female,32000,4000,580,Employed,12,Education,Rejected
+LA013,Daniel Martin,47,Male,85000,35000,760,Self-Employed,48,Business,Approved
+LA014,Stephanie Thompson,33,Female,52000,15000,700,Employed,36,Home Improvement,Approved
+LA015,Matthew Garcia,39,Male,68000,22000,730,Employed,42,Debt Consolidation,Approved
+LA016,Nicole Robinson,27,Female,40000,6000,640,Employed,18,Medical,Approved
+LA017,Andrew Clark,50,Male,98000,45000,790,Employed,60,Home Purchase,Approved
+LA018,Rachel Lewis,30,Female,46000,9000,610,Employed,24,Vacation,Rejected
+LA019,Joshua Lee,43,Male,75000,28000,745,Self-Employed,48,Business,Approved
+LA020,Lauren Walker,36,Female,58000,18000,715,Employed,36,Home Improvement,Approved
+LA021,Kevin Hall,48,Male,88000,40000,770,Employed,54,Home Purchase,Approved
+LA022,Samantha Allen,25,Female,34000,5500,600,Employed,12,Education,Rejected
+LA023,Brian Young,42,Male,70000,25000,725,Employed,42,Business,Approved
+LA024,Elizabeth King,34,Female,54000,14000,695,Employed,30,Debt Consolidation,Approved
+LA025,Jason Wright,51,Male,105000,55000,805,Self-Employed,60,Home Purchase,Approved
+LA026,Jennifer Scott,29,Female,43000,8500,660,Employed,24,Medical,Approved
+LA027,Ryan Green,37,Male,64000,21000,720,Employed,36,Home Improvement,Approved
+LA028,Megan Baker,26,Female,36000,4500,570,Employed,12,Vacation,Rejected
+LA029,Brandon Adams,44,Male,82000,32000,755,Employed,48,Business,Approved
+LA030,Kimberly Nelson,32,Female,50000,12500,685,Employed,30,Debt Consolidation,Approved
+LA031,Justin Hill,40,Male,73000,27000,735,Self-Employed,42,Home Improvement,Approved
+LA032,Heather Campbell,28,Female,41000,7000,630,Employed,18,Education,Rejected
+LA033,Tyler Mitchell,53,Male,110000,60000,810,Employed,66,Home Purchase,Approved
+LA034,Amber Roberts,35,Female,56000,16000,705,Employed,36,Medical,Approved
+LA035,Aaron Carter,46,Male,87000,38000,765,Employed,54,Business,Approved
+LA036,Christina Phillips,30,Female,47000,9500,645,Employed,24,Debt Consolidation,Approved
+LA037,Sean Evans,38,Male,66000,23000,725,Employed,42,Home Improvement,Approved
+LA038,Danielle Turner,27,Female,37000,5000,585,Employed,12,Vacation,Rejected
+LA039,Eric Collins,49,Male,92000,42000,780,Self-Employed,60,Home Purchase,Approved
+LA040,Brittany Edwards,33,Female,53000,13500,690,Employed,30,Education,Approved
+LA041,Patrick Stewart,41,Male,71000,26000,730,Employed,42,Business,Approved
+LA042,Laura Morris,31,Female,49000,11000,675,Employed,24,Debt Consolidation,Approved
+LA043,Jeremy Rogers,54,Male,115000,65000,815,Employed,72,Home Purchase,Approved
+LA044,Tiffany Reed,26,Female,35000,4000,560,Employed,12,Medical,Rejected
+LA045,Adam Cook,45,Male,84000,34000,760,Employed,48,Home Improvement,Approved
+LA046,Michelle Morgan,34,Female,55000,15500,700,Employed,36,Vacation,Approved
+LA047,Nathan Bell,39,Male,69000,24000,720,Self-Employed,42,Business,Approved
+LA048,Kayla Murphy,29,Female,44000,8000,655,Employed,18,Debt Consolidation,Approved
+LA049,Travis Bailey,47,Male,90000,40000,775,Employed,54,Home Purchase,Approved
+LA050,Courtney Rivera,32,Female,51000,12000,680,Employed,30,Education,Approved
